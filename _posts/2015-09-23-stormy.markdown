@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2015-09-23
+img: stormy.png
+alt: image-alt
+project-date: September 2015
+category: Android Development
+tool: Android SDK, API, RESTful
+description: This is a weather app that calls on the Darksky API to get hourly and daily forecast. <a href="https://github.com/joelimyx/stormy">Github Repo</a>
+
+---
