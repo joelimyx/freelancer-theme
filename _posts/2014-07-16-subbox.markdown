@@ -6,6 +6,7 @@ img: subbox.png
 alt: image-alt
 project-date: April 2014
 category: Android Development
-description: This is a mock up E-commerce app that with shopping cart and transaction history. <img src="https://s-media-cache-ak0.pinimg.com/736x/2c/b6/70/2cb670b6ddd8922a1c1b2fee4f6f758c.jpg" href = "https://github.com/joelimyx/SubBox"/>
+skill: Java, Android SDK, SQLite
+description: This is a mock up E-commerce app that with shopping cart and transaction history. <a href="https://github.com/joelimyx/SubBox"><img src="https://s-media-cache-ak0.pinimg.com/736x/2c/b6/70/2cb670b6ddd8922a1c1b2fee4f6f758c.jpg"/></a>
 
 ---
