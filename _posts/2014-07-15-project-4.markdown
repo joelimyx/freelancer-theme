@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2016-12-7
+img: vooz.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: December 2016
+category: Android Development
+tool: Android SDK, API, RESTful, HTML parsing
+description: A news app that is heavily focused on visual that utilizes the Vice API to get the latest news on Vice.com. The app also create customized feed based on users' favorite topics. <a href="https://github.com/joelimyx/project-3"><img src="https://s-media-cache-ak0.pinimg.com/736x/2c/b6/70/2cb670b6ddd8922a1c1b2fee4f6f758c.jpg" height=100px/></a>
 
 ---
