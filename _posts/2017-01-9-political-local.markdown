@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2016-01-9
+img: politic.png
+alt: image-alt
+project-date: In Progress
+category: Android Development
+tool: Android SDK, API, RESTful, HTML parsing
+description: A news app that is heavily focused on visual that utilizes the Vice API to get the latest news on Vice.com. The app also create customized feed based on users' favorite topics. <a href="https://github.com/joelimyx/project-3"><img src="https://s-media-cache-ak0.pinimg.com/736x/2c/b6/70/2cb670b6ddd8922a1c1b2fee4f6f758c.jpg" height=100px/></a>
+
+---
