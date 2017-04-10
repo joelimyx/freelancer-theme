@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2016-01-9
 img: politic.png
 alt: image-alt
